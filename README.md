@@ -1,2 +1,2 @@
 # lastfm_data_analysis_pyspark
-analyze lastfm mistening and genre datasets using pyspark 
+analyze lastfm listening and genre datasets using pyspark 
